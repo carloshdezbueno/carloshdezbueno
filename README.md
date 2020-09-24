@@ -26,7 +26,7 @@ For several years I have developed various personal projects, some in my free ti
 - **House keep**: 
 Final degree project, consisting of a Web application composed of a frontend developed with Angular.js, a backend in Python Flask and a home automation module to control the state of uninhabited homes, as well as prevent their deterioration by executing remote orders or routine programming.
 <p align="center">
-  <img width="300" height="460" src="https://github.com/carloshdezbueno/carloshdezbueno/blob/master/imagenTFG.jpg">
+  <img  src="https://github.com/carloshdezbueno/carloshdezbueno/blob/master/imagenTFG.jpg">
 </p>
 
 
