@@ -23,16 +23,18 @@ I am Carlos, a 21 year old computer science student, and enthusiast of web, micr
 For several years I have developed various personal projects, some in my free time and others in hackathons, or as free themed class assignments. However, the most remarkable ones are some of the following:
 
 
-- **Web application for Helmantica Riders**: Web application composed of a frontend developed with Angular.js and a backend in javascript to learn these technologies.
+- **House keep**: 
+Final degree project, consisting of a Web application composed of a frontend developed with Angular.js, a backend in Python Flask and a home automation module to control the state of uninhabited homes, as well as prevent their deterioration by executing remote orders or routine programming.
 <p align="center">
-  <img width="460" height="300" src="https://github.com/GtrB0SS/GtrB0SS/blob/master/project1.jpeg">
+  <img width="460" height="300" src="https://github.com/carloshdezbueno/carloshdezbueno/blob/master/imagenTFG.jpg">
 </p>
 
 
-## 📫 How to contact me
+<--!## 📫 How to contact me
 <p align="center">
  <a href="https://github.com/GtrB0SS/GtrB0SS/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
  </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/albertogarc/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:albertogarciacampo@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+-->
