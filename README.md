@@ -30,7 +30,7 @@ Final degree project, consisting of a Web application composed of a frontend dev
 </p>
 
 
-<--!## 📫 How to contact me
+<!--## 📫 How to contact me
 <p align="center">
  <a href="https://github.com/GtrB0SS/GtrB0SS/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
  </p>
