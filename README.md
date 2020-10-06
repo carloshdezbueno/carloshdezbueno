@@ -29,11 +29,11 @@ Final degree project, consisting of a Web application composed of a frontend dev
 </p>
 
 
-<!--## 📫 How to contact me
+## 📫 How to contact me
 <p align="center">
- <a href="https://github.com/GtrB0SS/GtrB0SS/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
+ <a href="https://github.com/carloshdezbueno/carloshdezbueno/raw/master/resume.pdf"> 📄⬇ Download my resume  </a>
  </p>
-<p align="center">
+<!--<p align="center">
 <a href="https://www.linkedin.com/in/albertogarc/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:albertogarciacampo@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 -->
