@@ -1,4 +1,4 @@
-# Hey there! I'm Carlos
+# Hey there! I'm Carlos Hernandez-Bueno Regojo
 
 I am Carlos, a 21 year old computer science student, and enthusiast of web, microservices and mobile app developement.
 
