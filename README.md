@@ -36,5 +36,7 @@ Final degree project, consisting of a Web application composed of a frontend dev
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-hernández-bueno-regojo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:carloshdez.bueno@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://carloshdez-bueno.medium.com/"><img alt="email" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
    </p>
+   
 
