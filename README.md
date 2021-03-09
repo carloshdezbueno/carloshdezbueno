@@ -4,7 +4,7 @@ I am Carlos, a 21 year old computer science student, and enthusiast of web, micr
 
 ## 👨‍🎓 About Me
 - 💼 Active searching for job !!!
-- 📚 Currently finishing the computer science degree at the Pontificial University of Salamanca.
+- 📚 Currently finishing the bussiness administration degree after finishing Computer science degree at the Pontificial University of Salamanca.
 - 🌱 Improving my fullstack developer 🚀 skills. Currently focused in deeping my knoledge in web development learning a full JavaScript stack.
 
 ## 🌱  Currently learning
