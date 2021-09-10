@@ -1,10 +1,10 @@
 # Hey there! I'm Carlos Hernandez-Bueno Regojo
 
-I am Carlos, a 21 year old computer science student, and enthusiast of web, microservices and mobile app developement.
+I am Carlos, a 22 year old computer science student, and enthusiast of web, microservices and mobile app developement.
 
 ## 👨‍🎓 About Me
 - 💼 Active searching for job !!!
-- 📚 Currently finishing the bussiness administration degree after finishing Computer science degree at the Pontificial University of Salamanca.
+- 📚 Currently studying a double master in Computer Engineering and Cybersecurity at Carlos III University in Madrid, after finishing bussiness administration and Computer engineering degrees at the Pontificial University of Salamanca.
 - 🌱 Improving my fullstack developer 🚀 skills. Currently focused in deeping my knoledge in web development learning a full JavaScript stack.
 
 ## 🌱  Currently learning
