@@ -10,7 +10,7 @@ I am Carlos, a 22 year old computer science student, and enthusiast of web, micr
 
 ## 🌱  Currently learning
 <p align="center">
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/react%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 
