@@ -1,12 +1,12 @@
 # Hey there! I'm Carlos Hernandez-Bueno Regojo
 
-I am Carlos, a 24 year old computer science student, and enthusiast of web, microservices and mobile app developement.
+I am Carlos, a 24 year old computer science student, and enthusiast of web, microservices, mobile app developement and Cybersecurity.
 
 ## 👨‍🎓 About Me
-- 💼 Active searching for job !!!
+- 💼 Working on Grupo MasMovil
 - 📚 Currently studying a double master in Computer Engineering and Cybersecurity at Carlos III University in Madrid, after finishing bussiness administration and Computer engineering degrees at the Pontificial University of Salamanca.
-- 👨‍🔧 Currently I am the Topic Responsible at EBEC Local Round Madrid Carlos III for BEST asociation.
-- 🌱 Improving my fullstack developer 🚀 skills. Currently focused in deeping my knowledge in web development learning a full JavaScript stack.
+- 👨‍🔧 Currently I am the IT Department Coordinator for BEST AISBL.
+- 🌱 Improving my fullstack developer 🚀 skills. Currently focused in deeping my knowledge in web development learning a full JavaScript stack and cybersecurity in cloud enviroments.
 
 ## 🌱  Currently learning
 <p align="center">
