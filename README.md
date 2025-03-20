@@ -1,44 +1,81 @@
-# Hey there! I'm Carlos Hernandez-Bueno Regojo
+# 🚀 Carlos Hernandez-Bueno Regojo  
 
-I am Carlos, a 25 year old computer science student, and enthusiast of web, microservices, mobile app developement and Cybersecurity.
+## 👨‍💻 DevOps | Full-Stack Developer | Cybersecurity Enthusiast  
 
-## 👨‍🎓 About Me
-- 💼 Working at Grupo MasMovil
-- 📚 Currently studying a double master in Computer Engineering and Cybersecurity at Carlos III University in Madrid, after finishing business administration and Computer engineering degrees at the Pontificial University of Salamanca.
-- 👨‍🔧 Former IT Department Coordinator and current Treasurer of the XXXVII International Board of BEST (Board of European Students of Technology) AISBL.
-- 🌱 Improving my fullstack developer 🚀 skills. Currently focused in deeping my knowledge in web development learning a full JavaScript stack and cybersecurity in cloud enviroments such as CKA and GCP certifications.
+Hi there! I'm **Carlos**, a **25-year-old** computer engineer passionate about **web development, microservices, mobile app development, and cybersecurity**. I enjoy solving complex problems, building scalable applications, and continuously learning new technologies.  
 
-## 🌱  Currently learning
+---
+
+## 👨‍🎓 About Me  
+- 💼 **Currently working at:** Grupo MasMovil  
+- 🎓 **Education:**  
+  - 🎓 **Double Master's in Computer Engineering & Cybersecurity** – Carlos III University, Madrid  
+  - 🎓 **Business Administration & Computer Engineering** – Pontifical University of Salamanca  
+- 🏛 **Leadership Experience:**  
+  - 🏆 **Treasurer** of the XXXVII International Board of **BEST (Board of European Students of Technology) AISBL**  
+  - 💡 Former **IT Department Coordinator** at BEST  
+
+---
+
+## 🚀 Currently Learning & Improving  
+I'm focused on **full-stack development** and **cloud security**, deepening my knowledge in:  
+
 <p align="center">
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /><img src="https://img.shields.io/badge/bazel-%23EA4AAA.svg?&style=for-the-badge&logo=bazel&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/bazel-%23EA4AAA.svg?&style=for-the-badge&logo=bazel&logoColor=white" />
 </p>
 
+---
 
-## 🛠 My tech stack
-- 🌐: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/Symphony-%230098FF.svg?&style=for-the-badge&logo=Symphony&logoColor=white"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-- 💻: <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-- 🛢: <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-- 🔧: <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /> 
+## 🛠 Tech Stack  
+### 🌐 Frontend & Backend  
+<p align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-## 🎯 Personal projects
-For several years I have developed various personal projects, some in my free time and others in hackathons, or as free themed class assignments. However, the most remarkable ones are some of the following:
+### 💻 Programming Languages  
+<p align="center">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
+### 🛢 Databases & DevOps  
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+</p>
 
-- **House keep**: 
-Final degree project, consisting of a Web application composed of a frontend developed with Angular.js, a backend in Python Flask and a home automation module to control the state of uninhabited homes, as well as prevent their deterioration by executing remote orders or routine programming.
+---
+
+## 🎯 Notable Projects  
+### **🏡 House Keep**  
+A **Final Degree Project** – A **Web Application** to control uninhabited homes, prevent deterioration, and execute remote actions.  
+
+- **Frontend:** Angular.js  
+- **Backend:** Python Flask  
+- **IoT Module:** Home automation system  
+
 <p align="center">
   <img width="auto" height="460" src="https://github.com/carloshdezbueno/carloshdezbueno/blob/master/imagenTFG.jpg">
 </p>
 
+---
 
-## 📫 How to contact me
+## 📫 Connect with Me  
 <p align="center">
- <a href="https://github.com/carloshdezbueno/carloshdezbueno/raw/master/Carlos Hernández-Bueno Regojo.pdf"> 📄⬇ Download my resume  </a>
- </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/carlos-hernandez-bueno-regojo/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:carloshdez.bueno@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://carloshdez-bueno.medium.com/"><img alt="email" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-   </p>
-   
-
+ <a href="https://github.com/carloshdezbueno/carloshdezbueno/raw/master/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/carlos-hernandez-bueno-regojo/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:carloshdez.bueno@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://carloshdez-bueno.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</p>
