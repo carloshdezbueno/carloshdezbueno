@@ -7,7 +7,7 @@ Hi there! I'm **Carlos**, a **26-year-old** computer engineer passionate about *
 ---
 
 ## 👨‍🎓 About Me  
-- 💼 **Currently working at:** Grupo MasMovil  
+- 💼 **Currently working at:** Grupo MasOrange
 - 🎓 **Education:**  
   - 🎓 **Double Master's in Computer Engineering & Cybersecurity** – Carlos III University, Madrid  
   - 🎓 **Business Administration & Computer Engineering** – Pontifical University of Salamanca  
